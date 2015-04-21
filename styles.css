@@ -1,0 +1,43 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+.application {
+    height: 100%;
+    background: #f9f9f9;
+}
+.application-body {
+    padding: 100px 0;
+    width: 900px;
+    margin: 0 auto;
+    font-family: ghostfont, thatsnotevenafont, okayfine, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+.application-body label {
+    display: block;
+    margin-bottom: 5px;
+}
+.application-body input {
+    font-size: 18px;
+    padding: 5px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+.application-body button {
+    /*some quick copies from bootstrap css*/
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+    padding: 8px 12px;
+    font-size: 14px;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 1px solid transparent;
+    border-radius: 2px;
+    width: 100%;
+    outline: none;
+}
+.application-body button:hover {
+    background-color: #286090;
+    border-color: #204d74;
+}
