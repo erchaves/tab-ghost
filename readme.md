@@ -1,5 +1,3 @@
 
 Hi there.  This mini script is a ghost that haunts your browser tab and sends little messages.
-
-![IMG_4005 copy.jpg]({{site.baseurl}}/IMG_4005 copy.jpg)
-
+![test alt text]({{site.baseurl}}//11176317_1083422961674399_2133829796_n.jpg)
